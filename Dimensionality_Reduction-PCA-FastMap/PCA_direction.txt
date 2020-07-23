@@ -1,0 +1,7 @@
+PCA direction of first two component:
+Direction 1: [ 0.86667137 -0.23276482  0.44124968]
+Direction 2: [-0.4962773  -0.4924792   0.71496368]
+
+
+PCA magnitude of first two component:
+[101.60286375  19.89589866]
