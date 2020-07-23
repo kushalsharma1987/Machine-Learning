@@ -1,0 +1,28 @@
+Linearly Separable Case:
+Linear kernel function: X1.X2
+Support vectors indices: [27, 83, 87]
+Support lagrangian multiplier: [33.73875192  1.29468506 32.4440672 ]
+Support Vectors:
+[[ 0.24979414  0.18230306  1.        ]
+ [ 0.3917889   0.96675591 -1.        ]
+ [ 0.02066458  0.27003158 -1.        ]]
+weights: [ 7.25005616 -3.86188932]
+bias: -0.10698729032461896
+Equation of line: 7.25x -3.86y -0.11= 0
+Accuracy: 100.0%
+=============================================
+
+Non-linearly Separable Case:
+Polynomial kernel function: (X1.X2)**2
+Support vectors indices: [36, 51, 59, 95]
+Support lagrangian multiplier: [0.02738944 0.00661983 0.01234583 0.02166343]
+Support Vectors:
+[[-10.260969     2.07391791   1.        ]
+ [  1.3393313  -10.29098822   1.        ]
+ [ -6.90647562   7.14833849  -1.        ]
+ [  9.90143538  -0.31483149  -1.        ]]
+bias: -18.93152733913999
+Equation of line: 0.18x**2 +0.19y**2 +0.01xy -18.93= 0
+Accuracy: 100.0%
+=============================================
+
